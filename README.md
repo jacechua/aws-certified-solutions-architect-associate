@@ -1,2 +1,2 @@
-# aws-certified-solutions-architect
+# aws-certified-solutions-architect-associate
 AWS Certified Solutions Architect – Associate
